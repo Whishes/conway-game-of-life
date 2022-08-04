@@ -1,0 +1,14 @@
+#gameContainer {
+    width: 100vw;
+    height: 80vh;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 15px;
+    height: 15px;
+    border: 1px solid gray;
+}
